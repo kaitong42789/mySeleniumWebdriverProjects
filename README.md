@@ -1,2 +1,2 @@
 # mySeleniumWebdriverProjects
-this is my first Selenium Webdriver project
+this is my first Selenium Webdriver projects
